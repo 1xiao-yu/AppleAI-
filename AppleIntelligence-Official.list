@@ -1,0 +1,10 @@
+# Apple Intelligence / Siri / Search
+# Based on Apple's published enterprise network host list.
+# Policy: 全球手动策略
+
+DOMAIN,guzzoni.apple.com,全球手动策略
+DOMAIN-SUFFIX,smoot.apple.com,全球手动策略
+DOMAIN,apple-relay.cloudflare.com,全球手动策略
+DOMAIN,apple-relay.fastly-edge.com,全球手动策略
+DOMAIN,cp4.cloudflare.com,全球手动策略
+DOMAIN,apple-relay.apple.com,全球手动策略
